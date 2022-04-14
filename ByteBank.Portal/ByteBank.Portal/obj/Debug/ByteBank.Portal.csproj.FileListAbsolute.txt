@@ -1,0 +1,8 @@
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharp_reflection\ByteBank.Portal\ByteBank.Portal\bin\Debug\ByteBank.Portal.exe.config
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharp_reflection\ByteBank.Portal\ByteBank.Portal\bin\Debug\ByteBank.Portal.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharp_reflection\ByteBank.Portal\ByteBank.Portal\bin\Debug\ByteBank.Portal.pdb
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharp_reflection\ByteBank.Portal\ByteBank.Portal\obj\Debug\ByteBank.Portal.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharp_reflection\ByteBank.Portal\ByteBank.Portal\obj\Debug\ByteBank.Portal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharp_reflection\ByteBank.Portal\ByteBank.Portal\obj\Debug\ByteBank.Portal.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharp_reflection\ByteBank.Portal\ByteBank.Portal\obj\Debug\ByteBank.Portal.exe
+C:\Users\Rafael\Documents\Desenvolvimento\c-sharp_reflection\ByteBank.Portal\ByteBank.Portal\obj\Debug\ByteBank.Portal.pdb
