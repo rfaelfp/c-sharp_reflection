@@ -37,7 +37,7 @@ namespace ByteBank.Portal.Infraestrutura.Binding
 
         private IEnumerable<ArgumentoNomeValor> ObterArgumentoNomeValores(string queryString)
         {
-            var tuplasNomeValor = queryString.Split(new char[] { '/' }, StringSplitOptions.RemoveEmptyEntries);
+            var tuplasNomeValor = queryString.Split(new char[] { '&' }, StringSplitOptions.RemoveEmptyEntries);
             
             foreach(var tupla in tuplasNomeValor)
             {
